@@ -26,7 +26,7 @@ A Power BI project designed to provide insights into student performance. This d
 
 ## Preview
 
-![Dashboard Preview](Assets/student_academic_analysis.png)
+![Dashboard Preview](Assets/Student_academic_analysis.png)
 
 
 ## Technologies
